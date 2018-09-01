@@ -55,5 +55,4 @@ else
 	require   '/www/Framework/ThinkPHP/ThinkPHP.php';
 }
 
-echo 12312;
-
+echo 'asdsad';
