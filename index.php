@@ -54,3 +54,5 @@ else
 	define('APP_PATH', DAOJIA_TP_PATH . '/Application/');
 	require   '/www/Framework/ThinkPHP/ThinkPHP.php';
 }
+
+asdasd
